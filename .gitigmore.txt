@@ -1,0 +1,2 @@
+*.pyc
+ *~ __pycache__ myvenvdb.sqlite3 /static .DS_Store
